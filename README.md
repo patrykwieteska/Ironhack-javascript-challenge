@@ -1,5 +1,5 @@
 # Ironhack-javascript-challenge
 
-##How to run:
+## How to run:
 
 1. Download project and run in browser index.html file
