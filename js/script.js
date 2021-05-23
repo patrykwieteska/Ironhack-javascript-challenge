@@ -27,7 +27,6 @@ document.getElementById('btn-0').addEventListener('click', function(e){
     }
 })
 
-
 btnAdd.addEventListener('click', function(e){
   if(calcResult.value === ''){
     calcResult.value = ''
@@ -59,7 +58,6 @@ btnSubtract.addEventListener('click', function(e){
     calcResult.value += '-'
   }
 })
-
 
 btnEqual.addEventListener('click', function(e){
   let lastItemIndex = calcResult.value.length-1;
