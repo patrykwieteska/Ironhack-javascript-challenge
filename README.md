@@ -2,4 +2,4 @@
 
 ## How to run
 
-1. Download project and run index.html file in your web browser
+1. Download project and open index.html file in your web browser
